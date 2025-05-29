@@ -1,0 +1,21 @@
+body {
+  width: 700px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+#enca {
+  text-align: center;
+}
+
+.texto p {
+  text-align: justify;
+}
+
+.centrado {
+    text-align: center;
+}
+
+h2 {
+  color: blue;
+}
